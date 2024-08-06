@@ -92,7 +92,8 @@ npx hardhat help
 This command provides a list of available tasks and commands in Hardhat, along with descriptions and usage instructions. It is useful for understanding how to deploy, test, and interact with your smart contracts within the Hardhat environment.
 
 ## Authors
-Ankush Kumar
+Pramod Prajapat
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
